@@ -9,6 +9,8 @@
 3. Proposed Solution
 >We propose to create a product that will let users keep their older cars while continuing to stay safe by making an upgrade to the safety capabilities. This is done by placing a camera at the back of a car and having the output of that camera stream to the user’s phone.
 
+![Project Flow Diagram](assets/proposal_flow_diagrams.png)
+
 ---
 
 ## Group Members
