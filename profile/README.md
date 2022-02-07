@@ -26,15 +26,15 @@
 
 ---
 
-## General
-- [Google Drive][1] (File Sharing)
-- [Github Projects][2] (Project Management)
+## Development Tools
+The following lists are provided to give a high-level overview of how the project was implemented.
+
+### General
+>- [Google Drive][1] (File Sharing)
+>- [Github Projects][2] (Project Management)
 
 [1]: https://drive.google.com/drive/folders/1AzkvweVnDvXWM_jxyr9W6QkKEyxVvvQo "Google Drive - Team Folder"
 [2]: https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects "GitHub Projects"
-
-## Development Tools
-The following lists are provided to give a high-level overview of how the project was implemented.
 
 ### *Live stream Service*
 >- Git
