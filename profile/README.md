@@ -26,6 +26,13 @@ Clay Sheffield | <cts87@drexel.edu> |
 
 ---
 
+## General
+- [Google Drive][1] (File Sharing)
+- [Github Projects][2] (Project Management)
+
+[1]: https://drive.google.com/drive/folders/1AzkvweVnDvXWM_jxyr9W6QkKEyxVvvQo "Google Drive - Team Folder"
+[2]: https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects "GitHub Projects"
+
 ## Development Tools
 The following lists are provided to give a high-level overview of how the project was implemented.
 
@@ -38,12 +45,15 @@ The following lists are provided to give a high-level overview of how the projec
 ### IOS App
 - Git
 - Apple Xcode
-- [Canva][1] (Assets)
-- [MakeAppIcon][2] (App Icon)
+- [Canva][3] (Assets)
+- [MakeAppIcon][4] (App Icon)
 
-[1]: https://www.canva.com/q/pro/?utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_US_EN_CanvaPro_Branded_Tier1_Core_EM&utm_term=REV_US_EN_CanvaPro_Branded_Tier1_Canva_EM&utm_content=078_control&gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8GpCQFbmWhqTBVkKtbIbz9lGFYap7Uf2k5oOeHJFCjK5CDzXNWUakoaArKgEALw_wcB&gclsrc=aw.ds "Canva: Online Creative Design"
-[2]: https://makeappicon.com "MakeAppIcon: Generate App Icons From Images"
+[3]: https://www.canva.com/q/pro/?utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_US_EN_CanvaPro_Branded_Tier1_Core_EM&utm_term=REV_US_EN_CanvaPro_Branded_Tier1_Canva_EM&utm_content=078_control&gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8GpCQFbmWhqTBVkKtbIbz9lGFYap7Uf2k5oOeHJFCjK5CDzXNWUakoaArKgEALw_wcB&gclsrc=aw.ds "Canva: Online Creative Design"
+[4]: https://makeappicon.com "MakeAppIcon: Generate App Icons From Images"
 
 ### Camera System Housing
-- Autodesk AutoCAD
-- Afinia Studio
+- [Autodesk Fusion360][5]
+- [Afinia Studio][6]
+
+[5]: https://www.autodesk.com/products/fusion-360/overview "Fusion 360"
+[6]: https://afinia.com/3d-printers/afinia-studio-software/ "Afinia 3D Printing"
