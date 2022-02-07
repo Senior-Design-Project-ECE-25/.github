@@ -37,23 +37,23 @@
 The following lists are provided to give a high-level overview of how the project was implemented.
 
 ### *Live stream Service*
-- Git
-- Docker
-- Microsoft VS Code
-- VIM 
+>- Git
+>- Docker
+>- Microsoft VS Code
+>- VIM 
 
 ### *IOS App*
-- Git
-- Apple Xcode
-- [Canva][3] (Assets)
-- [MakeAppIcon][4] (App Icon)
+>- Git
+>- Apple Xcode
+>- [Canva][3] (Assets)
+>- [MakeAppIcon][4] (App Icon)
 
 [3]: https://www.canva.com/q/pro/?utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_US_EN_CanvaPro_Branded_Tier1_Core_EM&utm_term=REV_US_EN_CanvaPro_Branded_Tier1_Canva_EM&utm_content=078_control&gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8GpCQFbmWhqTBVkKtbIbz9lGFYap7Uf2k5oOeHJFCjK5CDzXNWUakoaArKgEALw_wcB&gclsrc=aw.ds "Canva: Online Creative Design"
 [4]: https://makeappicon.com "MakeAppIcon: Generate App Icons From Images"
 
 ### Camera System Housing
-- [Autodesk Fusion360][5]
-- [Afinia Studio][6]
+>- [Autodesk Fusion360][5]
+>- [Afinia Studio][6]
 
 [5]: https://www.autodesk.com/products/fusion-360/overview "Fusion 360"
 [6]: https://afinia.com/3d-printers/afinia-studio-software/ "Afinia 3D Printing"
